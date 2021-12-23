@@ -1,17 +1,17 @@
 {
-    "name": ":vendor_slug/:package_slug",
-    "description": ":package_description",
+    "name": "alessioprete/packagetest",
+    "description": "Prova pacchetto",
     "keywords": [
-        ":vendor_name",
+        "Alessio Prete",
         "laravel",
-        ":package_slug"
+        "packagetest"
     ],
-    "homepage": "https://github.com/:vendor_slug/:package_slug",
+    "homepage": "https://github.com/AlessioPrete/packagetest.git",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": "author@domain.com",
+            "name": "Alessio Prete",
+            "email": "info@alessioprete.com",
             "role": "Developer"
         }
     ],
