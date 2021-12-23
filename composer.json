@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "php": "^8.0",
+        "php": "^7.2",
         "spatie/laravel-package-tools": "^1.9.2",
         "illuminate/contracts": "^8.73"
     },
@@ -54,10 +54,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "VendorName\\Skeleton\\SkeletonServiceProvider"
+                "alessioprete\\Skeleton\\SkeletonServiceProvider"
             ],
             "aliases": {
-                "Skeleton": "VendorName\\Skeleton\\Facades\\Skeleton"
+                "Skeleton": "alessioprete\\Skeleton\\Facades\\Skeleton"
             }
         }
     },
